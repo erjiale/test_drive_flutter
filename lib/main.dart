@@ -9,7 +9,7 @@ void main() {
           title: const Text('I am Rich', style: TextStyle(color: Colors.blue)),
           backgroundColor: Colors.blueGrey[900],
         ),
-        body: Center(
+        body: const Center(
           child: Image(
             image: AssetImage('images/IMG_6813.JPG')
           ),

@@ -1,0 +1,10 @@
+^C:\USERS\JIALE\ONEDRIVE\DOCUMENTS\CODING\FLUTTER\TEST_DRIVE_FLUTTER\BUILD\WINDOWS\X64\CMAKEFILES\6ED4B4FB668EAE6F622A9BACF83CEE7A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/windows -BC:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/flutter_projects.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

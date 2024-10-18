@@ -1,0 +1,13 @@
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/images/IMG_6813.JPG
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/jiale/OneDrive/Documents/Coding/Flutter/test_drive_flutter/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
